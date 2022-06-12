@@ -1,6 +1,13 @@
 # MyserviceBackend
 
 
+#### frontend 
+>html
+>css
+>javascript
+>bootstrap5
+>
+
 
 #### navbar
 
