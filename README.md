@@ -3,6 +3,15 @@
 
 #### frontend 
 > html , css javascript
+> bootstrap , react
+
+#### backend 
+>node ,  express
+>mongoDB, 
+
+#### run 
+> npm run dev
+>
 
 
 #### navbar
