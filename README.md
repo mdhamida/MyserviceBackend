@@ -2,11 +2,7 @@
 
 
 #### frontend 
-##### html
-##### css
-##### javascript
-##### bootstrap5
-
+> html , css javascript
 
 
 #### navbar
